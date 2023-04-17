@@ -27,7 +27,7 @@ export default function Home({ product }: HomeProps) {
           <span>👏 Hey, Welcome!</span>
 
           <h1>
-            News about the <span>React</span>world.
+            News about the <span>React</span> world.
           </h1>
           <p>
             Get acess to all the publications <br />
