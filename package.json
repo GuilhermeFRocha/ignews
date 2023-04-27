@@ -9,6 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@prismicio/client": "^4.0.0",
+    "@types/prismic-dom": "^2.1.1",
+    "prismic-dom": "^2.2.5",
     "@stripe/stripe-js": "^1.52.1",
     "@types/node": "18.15.11",
     "@types/react": "18.0.35",
