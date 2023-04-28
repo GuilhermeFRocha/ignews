@@ -19,12 +19,10 @@ interface PostProps {
 }
 
 export default function Post({ posts }: PostProps) {
-  console.log(posts);
-
   return (
     <>
       <Head>
-        <title>Posts | Ignews</title>
+        <title>Posts | ig.news</title>
       </Head>
 
       <main className={styles.container}>
